@@ -25,4 +25,5 @@
 
 #### 抖音
 ##### 版本-10.1.0
-##### 只解决了gorgon和设备注册，xlog无法调用
+##### 只能解决gorgon和设备注册，xlog无法调用
+##### https://github.com/heyaug/HttpSo
